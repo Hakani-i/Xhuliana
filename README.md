@@ -1,2 +1,2 @@
-# Xhuliana
-course
+Ky eshte nje projekt devops
+
